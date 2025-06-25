@@ -28,23 +28,6 @@ Text2Model is a web application that allows users to enter natural language prom
 
 ---
 
-## Project Structure
-
-prompt-to-3d/
-├── app/
-│ ├── main.py
-│ └── LLM.py
-├── static/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-├── model/
-├── requirements.txt
-├── .gitignore
-└── README.md
-
----
-
 ## How to Run
 
 ### 1. Clone the repo

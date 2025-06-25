@@ -1,0 +1,1 @@
+Due to system limitations, I did not integrate the image-to-3D conversion into the FastAPI backend. However, if your system can handle the computational load, this functionality can certainly be added.

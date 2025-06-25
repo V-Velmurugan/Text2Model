@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# VS Code
+.vscode/
+
+# Logs and cache
+*.log
+*.sqlite3
+*.db
+*.cache
+*.pt
+
+# Hugging Face cache
+~/.cache/huggingface/

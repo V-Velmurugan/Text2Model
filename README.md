@@ -65,15 +65,10 @@ uvicorn app.main:app --reload
 Visit http://localhost:8000 in your browser.
 
 
-# Outcome
+# Output
 
-Learned to integrate LLMs and prompt engineering with web apps.
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/R5IfKDFJs7I)
 
-Built a complete AI image and 3D mesh generation pipeline.
-
-Applied Redis for persistent chat history and fast in-memory storage.
-
-Gained experience with FastAPI, frontend/backend integration, and Open3D.
 
 
 License

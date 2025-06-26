@@ -1,4 +1,6 @@
 # Text2Model
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Repo Size](https://img.shields.io/github/repo-size/V-Velmurugan/Text2Model)
 
 Text2Model is a web application that allows users to enter natural language prompts and receive AI-generated 3d model. The system stores the prompt history and extracted LLM data using Redis and visualizes the result in a clean chatbot-style interface. It also includes functionality to reconstruct a 3D mesh from the generated image using depth estimation and Open3D.
 

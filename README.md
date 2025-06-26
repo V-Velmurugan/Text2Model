@@ -67,8 +67,8 @@ Visit http://localhost:8000 in your browser.
 
 # Output
 
-[![Watch the demo](![image](https://github.com/user-attachments/assets/2663479f-40ab-4c6a-b5cc-4719a6a50986))](https://youtu.be/R5IfKDFJs7I)
-[![Watch the demo](![image](https://github.com/user-attachments/assets/7e24c9d9-5800-48d5-9d1b-ca96fd22b6a1))](https://youtu.be/BI3BzbPkGDs)
+[![A Dragon](video-camera.png)](https://youtu.be/R5IfKDFJs7I)
+[![Sports Car](video-camera.png)](https://youtu.be/BI3BzbPkGDs)
 
 License
 This project is licensed under the MIT License.

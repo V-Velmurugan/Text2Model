@@ -67,9 +67,8 @@ Visit http://localhost:8000 in your browser.
 
 # Output
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/R5IfKDFJs7I)
-
-
+[![Watch the demo](https://img.youtube.com/vi/5ypQIUbpA7c/hqdefault.jpg)](https://youtu.be/R5IfKDFJs7I)
+[![Watch the demo](https://img.youtube.com/vi/5ypQIUbpA7c/hqdefault.jpg)](https://youtu.be/BI3BzbPkGDs)
 
 License
 This project is licensed under the MIT License.

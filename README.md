@@ -67,8 +67,8 @@ Visit http://localhost:8000 in your browser.
 
 # Output
 
-[![A Dragon](video-camera.png)](https://youtu.be/R5IfKDFJs7I)
-[![Sports Car](video-camera.png)](https://youtu.be/BI3BzbPkGDs)
+[![A Dragon]()](https://youtu.be/R5IfKDFJs7I)
+[![Sports Car]()](https://youtu.be/BI3BzbPkGDs)
 
 License
 This project is licensed under the MIT License.
